@@ -4,11 +4,11 @@
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> </img>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/> <img
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/> </img>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub Logo" width="50" height="50"/> <img
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50"/> </img>
 
 
 ---
