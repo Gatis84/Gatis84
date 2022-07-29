@@ -4,9 +4,9 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript" alt="JavaScript Logo" width="50" height="50"/> <img 
+<img src="https://cdn.worldvectorlogo.com/logos/javascript" alt="JavaScript Logo" width="50" height="50" </img>
 
-<img src="https://worldvectorlogo.com/logo/linkedin-icon-2" alt="Linkedin Logo" width="50" height="50"/> <img 
+<img src="https://worldvectorlogo.com/logo/linkedin-icon-2" alt="Linkedin Logo" width="50" height="50"/ <img 
 
 <img src="https://worldvectorlogo.com/logo/php-1" alt="php Logo" width="50" height="50"/> <img 
 
