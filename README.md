@@ -11,7 +11,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS Logo" width="50" height="50"/> </img>
 
 
-📫  Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]https://www.linkedin.com/in/gatispaurans/)\
+📫  Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gatispaurans/)\
 📮  or drop me a message at <gatis.paurans@gmail.com>
 
 ![](https://hit.yhype.me/github/profile?user_id=16293217)
