@@ -19,8 +19,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-
 <h4><a href="https://github.com/Gatis84/Crypto-API/settings" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
 <p>Application that displays top 10 cryptocurrencies  using API/TWIG template/nikic fast route.</p>
 
-
-
+---
 
 
 
@@ -31,5 +30,3 @@ src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gatis84&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
