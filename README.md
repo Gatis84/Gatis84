@@ -16,7 +16,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-
 
 ![](https://hit.yhype.me/github/profile?user_id=16293217)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gatis84theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gatis84&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
