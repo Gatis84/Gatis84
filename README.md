@@ -5,21 +5,20 @@ PHP . MySQL  . Laravel . Unit & Integration testing (including TDD methods) . MV
 ---
 ## 📖 Currently learning / improving on
 
-[![HTML5](https://img.shields.io/badge/HTML5-1c1c1c?logo=html5&logoColor=E34F26)](#-currently-learning--improving-on)
-[![CSS3](https://img.shields.io/badge/CSS3-1c1c1c?logo=css3&logoColor=1572B6)](#-currently-learning--improving-on)
-[![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?logo=javascript&logoColor=F7DF1E)](#-currently-learning--improving-on)
-[![TypeScript](https://img.shields.io/badge/_TypeScript-1c1c1c?logo=typescript&logoColor=3178C6)](#-currently-learning--improving-on)
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> </img><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/> </img><img 
+src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql Logo" width="50" height="50"/> </img><img 
+src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel Logo" width="50" height="50"/> </img><img 
+src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html Logo" width="50" height="50"/> </img><img 
+src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> </img><img 
+src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS Logo" width="50" height="50"/> </img>
 
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> </img><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/> </img><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="50" height="50"/> </img><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql Logo" width="50" height="50"/> </img>
 
 📫  Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/gatispaurans/)\
 📮  or drop me a message at <gatis.paurans@gmail.com>
 
 ![](https://hit.yhype.me/github/profile?user_id=16293217)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnemosx&layout=compact&hide=html&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gatis84&layout=compact&hide=html&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
