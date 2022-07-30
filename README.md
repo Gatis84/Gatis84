@@ -10,6 +10,19 @@ src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> </img><img 
 src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS Logo" width="50" height="50"/> </img>
 
+---
+## MY LATEST PROJECTS
+
+<h4><a href="https://github.com/Gatis84/News" target="_blank" rel="noreferrer">News</a></h4>
+<p>Application that displays most popular latest articles in different categories using API.</p>
+
+<h4><a href="https://github.com/Gatis84/Crypto-API/settings" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
+<p>Application that displays top 10 cryptocurrencies  using API/TWIG template/nikic fast route.</p>
+
+
+
+
+
 
 📫  Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gatispaurans/)\
 📮  or drop me a message at <gatis.paurans@gmail.com>
