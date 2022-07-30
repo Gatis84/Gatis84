@@ -1,7 +1,7 @@
 ### Hi there 👋, I`m Gatis! I am a person who has recently chosen to completely change his professional activity and focus on coding investing all my time. As an influential person once told me - whatever you do, finish it! Achieving my goals is made easy by the fact that I do it with joy and passion. I love the feeling that self-improvement brings.
 
 ---
-## 📖 Currently learning / improving on
+#### 📖 Currently learning / improving on
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> </img><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/> </img><img 
 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql Logo" width="50" height="50"/> </img><img 
@@ -11,7 +11,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS Logo" width="50" height="50"/> </img>
 
 ---
-## MY LATEST PROJECTS
+#### MY LATEST PROJECTS
 
 <h4><a href="https://github.com/Gatis84/News" target="_blank" rel="noreferrer">News</a></h4>
 <p>Application that displays most popular latest articles in different categories using API.</p>
