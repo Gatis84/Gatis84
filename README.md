@@ -1,7 +1,5 @@
 ### Hi there 👋, I`m Gatis! I am a person who has recently chosen to completely change his professional activity and focus on coding investing all my time. As an influential person once told me - whatever you do, finish it! Achieving my goals is made easy by the fact that I do it with joy and passion. I love the feeling that self-improvement brings.
 
-PHP . MySQL  . Laravel . Unit & Integration testing (including TDD methods) . MVC, SOLID & design patterns (KISS, DRY etc.) . GIT . Building REST API . HTML .  CSS  . VueJS basics 
-
 ---
 ## 📖 Currently learning / improving on
 
