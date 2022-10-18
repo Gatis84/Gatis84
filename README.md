@@ -8,7 +8,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.
 src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel Logo" width="50" height="50"/> </img><img 
 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html Logo" width="50" height="50"/> </img><img 
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> </img><img 
-src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS Logo" width="50" height="50"/> </img>
+
 
 ---
 #### MY LATEST PROJECTS
