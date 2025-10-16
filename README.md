@@ -29,5 +29,10 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=16293217)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gatis84&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gatis84" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gatis84&layout=compact&langs_count=10&card_width=320" />
+</a>
 
