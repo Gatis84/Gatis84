@@ -9,7 +9,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel Logo" width="50" height="50"/> </img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html Logo" width="50" height="50"/> </img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> </img>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" width="50" height="50"/> </img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer Logo" width="50" height="50"/> </img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/> </img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="50" height="50"/> </img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Gitlab Logo" width="50" height="50"/> </img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes Logo" width="50" height="50"/> </img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman Logo" width="50" height="50"/> </img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vuejs Logo" width="50" height="50"/> </img>
 
 ---
 #### MY LATEST PROJECTS
