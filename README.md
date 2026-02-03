@@ -21,11 +21,15 @@
 ---
 #### MY LATEST PROJECTS
 
+<h4><a href="https://github.com/Gatis84/mini_erp" target="_blank" rel="noreferrer">WorkSys</a></h4>
+<p>This repository contains a work management system with 3 modules (Employees, Construction Sites, Work Tasks) </p>
+<p>and an API (V1) for the access check system. The project is built with Yii2 advanced and uses MSSQL database. The entire launch is planned via Docker.</p>
+
 <h4><a href="https://github.com/Gatis84/News" target="_blank" rel="noreferrer">News</a></h4>
 <p>Application that displays most popular latest articles in different categories using API.</p>
 
 <h4><a href="https://github.com/Gatis84/Crypto-API/settings" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
-<p>Application that displays top 10 cryptocurrencies  using API/TWIG template/nikic fast route.</p>
+<p>Application that displays top 10 cryptocurrencies  using API/TWIG template/nikic fast route.</p> 
 
 ---
 
